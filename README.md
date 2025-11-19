@@ -29,13 +29,11 @@ Connect to your Instance:
 • Once the instance is running, you can connect to it using SSH (for Linux) or RDP (for Windows). • Use the key pair you downloaded earlier to connect.
 
 # output
-<img width="1142" height="604" alt="image" src="https://github.com/user-attachments/assets/d65f4f7b-701c-4757-9214-c4ee68a8f31b" />
+<img width="1232" height="738" alt="Screenshot 2025-11-19 100914" src="https://github.com/user-attachments/assets/c05f61ad-412a-43c7-ae38-0f71238a464a" />
+<img width="1412" height="686" alt="Screenshot 2025-11-19 100935" src="https://github.com/user-attachments/assets/77a41019-fe95-4b62-8549-57a55886fa7a" />
+<img width="1407" height="664" alt="Screenshot 2025-11-19 100953" src="https://github.com/user-attachments/assets/299e0b0c-e0ba-41c9-9923-e3ed1fdba314" />
+<img width="1420" height="708" alt="Screenshot 2025-11-19 101010" src="https://github.com/user-attachments/assets/c2c41b2c-2c5e-4a08-ae9d-85614ada1555" />
 
-<img width="1151" height="633" alt="image" src="https://github.com/user-attachments/assets/648cccd7-e6c6-4fa8-a8ca-a52d1e4c5186" />
-
-<img width="1152" height="593" alt="image" src="https://github.com/user-attachments/assets/efa940ab-f5f9-421b-be5e-ccac608865e0" />
-
-<img width="1152" height="635" alt="image" src="https://github.com/user-attachments/assets/932bd786-df15-4c2d-9bf9-a9d14229c21d" />
 
  # RESULT
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
